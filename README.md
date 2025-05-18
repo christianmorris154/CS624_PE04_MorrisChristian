@@ -1,6 +1,5 @@
 # CS624_PE04_MorrisChristian
 
-### 150 word analysis
 # Input
 The application contains 6 profile cards The profile cards are available for Thumnails for expand and collapse
 
